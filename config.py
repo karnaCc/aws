@@ -1,0 +1,6 @@
+customhost = "deploy.cwowiofjkkm2.ap-south-1.rds.amazonaws.com"
+customuser ="karna"
+custompass ="qwerty97"
+customdb="employee"
+custombucket="addemp2"
+customregion="ap-south-1b"
